@@ -1,8 +1,8 @@
 # Python-Coursework
 A small collection of works from my second year at university
 <br/>
-### This year I completed projects on:
-<br/>
+### <ins> This year I completed projects on:</ins>
+
  - Football world cup simulations
 
  - Sequence-alignment software
